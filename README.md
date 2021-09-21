@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @daslanis
-- 👀 I’m interested in Programming Cool Stuff
+- 👋 Hi, I am Dimitrios Aslanis
+- 👀 I’m interested in Programming Cool Stuff & Video Editing
 - 🌱 I’m currently learning Web Development
 - ♦ My Blog: www.Dimitristhinking.com
-- 📫 How to reach me: <br><a href="www.twitter.com/realAslanis"> Twitter: @realAslanis</a><br><a href="mailto:contact@dimitristhinking.com"> Send me a mail</a>
+- 📫 How to reach me: <br>Twitter: @realAslanis (www.twitter.com/realAslanis)<br><a href="mailto:contact@dimitristhinking.com"> Send me a mail</a>
 
-✨ Have a great rest of your day! ✨
+✨ <em>Have a great rest of your day!</em> ✨
 
 <!---
 daslanis/daslanis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
