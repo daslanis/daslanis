@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daslanis
 - 👀 I’m interested in Programming Cool Stuf
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me: <br><a href="twitter.com/realAslanis"> Twitter: @realAslanis</a><br><a href="http://www.dimitristhinking.com/contact"> Send me a mail</a>
+- 📫 How to reach me: <br><a href="twitter.com/realAslanis"> Twitter: @realAslanis</a><br><a href="mailto:contact@dimitristhinking.com"> Send me a mail</a>
 
 ✨ Have a great rest of your day! ✨
 
